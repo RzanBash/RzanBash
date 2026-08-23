@@ -80,28 +80,28 @@
 
 <h2 style="font-size: 2em; border: none;">🚀 Featured Projects</h2>
 
-### <a href="https://github.com/RzanBash/Qisasi-Interactive-Kids-App" target="_blank">Qisasi</a>
+### <a href="https://github.com/RzanBash/Qisasi-Interactive-Kids-App" target="_blank">Qisasi Interactive Kids App</a>
 <a href="https://github.com/RzanBash/Qisasi-Interactive-Kids-App" target="_blank">
   <img src="pic/qisasi.png" alt="Qisasi Banner" width="100%" style="border-radius: 10px;">
 </a>
 
 <br>
 
-### <a href="https://github.com/RzanBash/FarmManagement" target="_blank">Green Haven</a>
+### <a href="https://github.com/RzanBash/FarmManagement" target="_blank">Farm Management</a>
 <a href="https://github.com/RzanBash/FarmManagement" target="_blank">
   <img src="pic/green-heaven.png" alt="Green Haven Banner" width="100%" style="border-radius: 10px;">
 </a>
 
 <br>
 
-### <a href="https://github.com/RzanBash/PythonCryptoSuite" target="_blank">All-in-One Python Crypto Suite</a>
+### <a href="https://github.com/RzanBash/PythonCryptoSuite" target="_blank">Python Crypto Suite</a>
 <a href="https://github.com/RzanBash/PythonCryptoSuite" target="_blank">
   <img src="pic/crypto-suite.png" alt="Python Crypto Suite Banner" width="100%" style="border-radius: 10px;">
 </a>
 
 <br>
 
-### <a href="https://github.com/RzanBash/H2O-Safety-Predictor" target="_blank">Water Potability Prediction</a>
+### <a href="https://github.com/RzanBash/H2O-Safety-Predictor" target="_blank">H2O Safety Predictor</a>
 <a href="https://github.com/RzanBash/H2O-Safety-Predictor" target="_blank">
   <img src="pic/water-potability.png" alt="Water Potability Prediction Banner" width="100%" style="border-radius: 10px;">
 </a>
@@ -117,10 +117,10 @@
 
 ## 📦 Other Projects
 
-* **[Mahami](https://github.com/RzanBash/MahamiTaskManager)** — A bilingual Flutter task manager with local storage, state management, and scheduled reminders.  
+* **[Mahami Task Manager](https://github.com/RzanBash/MahamiTaskManager)** — A bilingual Flutter task manager with local storage, state management, and scheduled reminders.  
   `Flutter` `Provider` `SharedPreferences` `Local Notifications`
 
-* **[Weather App](https://github.com/RzanBash/Flutter-WeatherApp-GetX)** — A Flutter weather application integrating REST APIs with reactive state management using GetX.  
+* **[Flutter WeatherApp GetX](https://github.com/RzanBash/Flutter-WeatherApp-GetX)** — A Flutter weather application integrating REST APIs with reactive state management using GetX.  
   `Flutter` `GetX` `REST API` `WeatherAPI`
 
 * **[WinFormsStoreManager](https://github.com/RzanBash/WinFormsStoreManager)** — A C# Windows Forms application for managing products, cashiers, authentication, and store sales.  
